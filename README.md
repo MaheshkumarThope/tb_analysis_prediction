@@ -111,5 +111,5 @@ MIT License
 * TensorFlow & Keras for model building
 * Streamlit for rapid UI development
 * Grad-CAM for model explainability
-* This is a reference fro MaheshkumarThope
+* This is a reference from Maheshkumar
 * Kaggle for providing the open-access dataset
